@@ -1,0 +1,62 @@
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.deps.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.runtimeconfig.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.runtimeconfig.dev.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csprojAssemblyReference.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csproj.CoreCompileInputs.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorAssemblyInfo.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorAssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.AssemblyInfoInputs.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.AssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorTargetAssemblyInfo.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\TymRazemSieUdaNaPewno\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.deps.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.runtimeconfig.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.runtimeconfig.dev.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.Views.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.Views.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csproj.CoreCompileInputs.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorAssemblyInfo.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorAssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.AssemblyInfoInputs.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.AssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.TagHelpers.input.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.TagHelpers.output.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorCoreGenerate.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\Razor\Views\AdminPageView.g.cshtml.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\Razor\Views\OrderDishView.g.cshtml.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorTargetAssemblyInfo.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorTargetAssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.Views.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csproj.CopyComplete
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csprojAssemblyReference.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.deps.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.runtimeconfig.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.runtimeconfig.dev.json
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.Views.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\bin\Debug\netcoreapp2.2\AnimalCateringProject.Views.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csprojAssemblyReference.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csproj.CoreCompileInputs.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorAssemblyInfo.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorAssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.AssemblyInfoInputs.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.AssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.TagHelpers.input.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.TagHelpers.output.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorCoreGenerate.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\Razor\Views\AdminPageView.g.cshtml.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\Razor\Views\OrderDishView.g.cshtml.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorTargetAssemblyInfo.cache
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.RazorTargetAssemblyInfo.cs
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.Views.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.dll
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.pdb
+C:\Users\KrisJ\Desktop\Kris\UG\sem4\ProgramApliRozprCSharp\AnimalCateringProject - Copy\AnimalCateringProject\obj\Debug\netcoreapp2.2\AnimalCateringProject.csproj.CopyComplete

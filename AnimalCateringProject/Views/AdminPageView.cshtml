@@ -1,0 +1,203 @@
+﻿@{
+    ViewData["Title"] = "AdminPage";
+}
+
+<h1>AdminPage</h1>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+
+        #hideThisItem {
+            display: none;
+        }
+
+    </style>
+
+</head>
+<body style="text-align: center; max-width: 70%; max-height: 50%; min-height: 600px; border: 1px solid black;">
+    <div>
+        <h1 style="text-align: center; height: 12%;"><strong>Animal Add Edit</strong></h1>
+        <h3>Add</h3>
+        <form action="javascript:void(0);" method="POST" onsubmit="addDish()">
+            <input type="text" id="add-name" placeholder="New dish">
+            <input type="text" id="add-desc" placeholder="desc">
+            <input type="submit" value="Add">
+        </form>
+
+        <div id="hideThisItem">
+            <h3>Edit</h3>
+            <form class="my-form">
+                <input type="hidden" id="edit-id">
+                <input type="checkbox" id="edit-isComplete">
+                <input type="text" id="edit-name">
+                <input type="text" id="edit-desc">
+                <input type="submit" value="Save">
+                <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+            </form>
+        </div>
+
+        <div>
+            <div id="menu" style="width: 100%;">
+                <table>
+                    <tr>
+                        <th style="width:10%; text-align: left;">isComplete</th>
+                        <th style="width:25%; text-align: left;">Name</th>
+                        <th style="width:45%; text-align: center;">Description</th>
+                        <th style="width:10%; text-align: right;">Edit</th>
+                        <th style="width:10%; text-align: right;">Delete</th>
+                    </tr>
+                    <tbody id="getAllDish"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <script>
+        const uri = "https://localhost:44344/pages/adminpage/";
+        let getAllDish = null;
+        function getCount(data) {
+            const el = $("#counter");
+            let name = "dish-do";
+            if (data) {
+                if (data > 1) {
+                    name = "to-dish";
+                }
+                el.text(data + " " + name);
+            } else {
+                el.text("No " + name);
+            }
+        }
+
+        $(document).ready(function () {
+            getDish();
+        });
+
+        function getDish() {
+            $.ajax({
+                type: "GET",
+                url: uri,
+                cache: false,
+                success: function (data) {
+                    const tBody = $("#getAllDish");
+
+                    $(tBody).empty();
+
+                    getCount(data.length);
+
+                    $.each(data, function (key, item) {
+                        const tr = $("<tr></tr>")
+                            .append(
+                                $("<td></td>").append(
+                                    $("<input/>", {
+                                        type: "checkbox",
+                                        disabled: true,
+                                        checked: item.vege
+                                    })
+                                )
+                            )
+                            .append($("<td></td>").text(item.name))
+                            .append($("<td></td>").text(item.desc))
+                            .append(
+                                $("<td></td>").append(
+                                        $("<button>Edit</button>").on("click", function () {
+                                        editDish(item.id);
+                                    })
+                                )
+                            )
+                            .append(
+                                $("<td></td>").append(
+                                    $("<button>Delete</button>").on("click", function () {
+                                        deleteDish(item.id);
+                                    })
+                                )
+                            );
+
+                        tr.appendTo(tBody);
+                    });
+
+                    getAllDish = data;
+                }
+            });
+        }
+
+        function addDish() {
+            const item = {
+                name: $("#add-name").val(),
+                desc: $("#add-desc").val(),
+                isComplete: false
+            };
+
+            $.ajax({
+                type: "POST",
+                accepts: "application/json",
+                url: uri,
+                contentType: "application/json",
+                data: JSON.stringify(item),
+                error: function (jqXHR, textStatus, errorThrown) {
+                    alert("Something went wrong!");
+                },
+                success: function (result) {
+                    getDish();
+                    $("#add-name").val("");
+                }
+            });
+        }
+
+        function deleteDish(id) {
+            $.ajax({
+                url: uri + id,
+                type: "DELETE",
+                success: function (result) {
+                    getDish();
+                }
+            });
+        }
+
+        function editDish(id) {
+            $.each(getAllDish, function (key, item) {
+                if (item.id === id) {
+                    $("#edit-name").val(item.name);
+                    $("#edit-id").val(item.id);
+                    $("#edit-desc").val(item.desc);
+                    $("#edit-isComplete")[0].checked = item.isComplete;
+                }
+            });
+            $("#hideThisItem").css({ display: "block" });
+        }
+
+        $(".my-form").on("submit", function () {
+            const item = {
+                name: $("#edit-name").val(),
+                desc: $("#edit-desc").val(),
+                isComplete: $("#edit-isComplete").is(":checked"),
+                id: $("#edit-id").val()
+            };
+
+            $.ajax({
+                url: uri + $("#edit-id").val(),
+                type: "PUT",
+                accepts: "application/json",
+                contentType: "application/json",
+                data: JSON.stringify(item),
+                success: function (result) {
+                    getDish();
+                }
+            });
+
+            closeInput();
+            return false;
+        });
+
+        function closeInput() {
+            $("#hideThisItem").css({ display: "none" });
+        }
+    </script>
+</body>
+</html>
